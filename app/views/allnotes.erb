@@ -1,0 +1,8 @@
+<ul>
+  <% @notes.each do |note| %>
+  <li>
+    <%= note.content %>
+    <button><a href="/notes/<%= note.id %>/edit">edit/delete</a></button>
+  </li>
+  <% end %>
+</ul>

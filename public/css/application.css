@@ -1,0 +1,29 @@
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+
+th {
+  text-align: left;
+}
+
+button{
+  background-color: #003300;
+  border-radius: 5px;
+  padding: 3px 3px 3px 3px;
+  margin: 3px 3px 3px 3px;
+}
+
+a{
+  text-decoration: none;
+  color: lightgray;
+}
+
+input{
+  background-color: #AABC00;
+  border-radius: 5px;
+  padding: 3px 3px 3px 3px;
+  margin: 5px 5px 5px 5px;
+}

@@ -1,0 +1,1 @@
+Note.create(content: "this is my great note. whooooo")
